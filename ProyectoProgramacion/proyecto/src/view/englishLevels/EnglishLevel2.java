@@ -31,7 +31,7 @@ public class EnglishLevel2 extends EnglishLevel{
         question.addAnswer("¿Cuál es tu comida favorita?");
         question.addAnswer("¿Cómo te llamas?");
         question.addAnswer("¿Qué estás comiendo?");
-        question.setCorrectAnswer("¿Qué estás comiedo?");
+        question.setCorrectAnswer("¿Qué estás comiendo?");
         listOfQuestions.add(question); 
         
         question = new Question("What are you watching?");
